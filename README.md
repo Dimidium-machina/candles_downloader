@@ -17,7 +17,11 @@ Create the virtual environment using virtualenv
 
 > virtualenv .env
 
-Start the virtual evironment
+Install dependencies
+
+> pip install -r requirements.txt
+
+Start the virtual environment
 
 > source .env/Scripts/activate
 
